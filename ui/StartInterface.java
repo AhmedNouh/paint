@@ -16,7 +16,7 @@ import javax.swing.*;
 
 /**
  *
- * @author chicco
+ * @author AhmedNouh
  */
 public class StartInterface extends JFrame {
 
